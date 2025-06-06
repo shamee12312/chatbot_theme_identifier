@@ -9,5 +9,5 @@ python-docx
 PyMuPDF
 pytesseract
 Pillow
-PyPDF2  
+PyPDF2 
 
