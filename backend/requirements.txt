@@ -1,4 +1,5 @@
 streamlit
+streamlit
 openai
 sentence-transformers
 chromadb
@@ -8,4 +9,5 @@ python-docx
 PyMuPDF
 pytesseract
 Pillow
-PyPDF2
+PyPDF2  
+
