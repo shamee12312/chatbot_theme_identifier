@@ -9,10 +9,10 @@ import json
 from datetime import datetime
 
 # Import our custom modules
-from document_processor import DocumentProcessor
-from vector_store import VectorStore
-from theme_analyzer import ThemeAnalyzer
-from query_engine import QueryEngine
+from services.document_processor import DocumentProcessor
+from services.vector_store import VectorStore
+from services.theme_analyzer import ThemeAnalyzer
+from services.query_engine import QueryEngine
 
 # Configure Streamlit page
 st.set_page_config(
