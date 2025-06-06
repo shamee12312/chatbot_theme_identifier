@@ -1,0 +1,11 @@
+streamlit
+openai
+sentence-transformers
+chromadb
+scikit-learn
+pandas
+python-docx
+PyMuPDF
+pytesseract
+Pillow
+PyPDF2
